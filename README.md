@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+Welcome to my GitHub profile.
 
 <!--
 **taywave/taywave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
