@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://tryhackme-badges.s3.amazonaws.com/taywave.png" alt="Your Image Badge" />
+
 ![tryhackme stats](https://raw.githubusercontent.com/taywave/taywave/master/assets/thm_propic.png)
+
+[![taywave's tryhackme stats](https://raw.githubusercontent.com/taywave/taywave/master/assets/thm_propic.png)][tryhackme]
+
