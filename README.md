@@ -1,7 +1,7 @@
-# Hello!
-Welcome to my GitHub profile \n
-My name is Taylor and I am a \n
-Cybersecurity Professional 
+# I’m Taylor
+Welcome to my GitHub profile
+
+I am a **Cybersecurity Professional**  
 
 - I am currently studying Computer Science 
 Cybersecurity at Liberty University.
@@ -14,6 +14,11 @@ Languages I know:
 • HTML/CSS
 
 <!-- Tools:
+
+
+
+Certifications:
+
 
 -->
 
