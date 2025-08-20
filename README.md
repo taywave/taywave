@@ -3,15 +3,16 @@ Welcome to my GitHub profile
 
 I am a **Cybersecurity Professional**  
 
+A little about me:  
 - I am currently studying Computer Science 
 Cybersecurity at Liberty University.
 
 
 Languages I know:
-• Python
-• C++
-• SQL
-• HTML/CSS
+- Python
+- C++
+- SQL
+- HTML/CSS
 
 <!-- Tools:
 
