@@ -1,13 +1,13 @@
 # Hi, I'm Taylor 👋
-Welcome to my GitHub profile!
+
 
 ## 💻 About Me
 I’m a passionate **Cybersecurity Professional** and a **Computer Science & Cybersecurity student at Liberty University**.  
 I enjoy exploring programming, web development, and information systems, with a focus on building secure and efficient solutions.
 
-- 🔹 Experienced in Application Programming, Web Development, Information Systems, and Cybersecurity
-- 🔹 Always learning and experimenting with new technologies
-- 🔹 Motivated to contribute to open-source projects and collaborative work
+- Experienced in Application Programming, Web Development, Information Systems, and Cybersecurity
+- Always learning and experimenting with new technologies
+- Motivated to contribute to open-source projects and collaborative work
 
 ## 🛠️ Skills & Languages
 Here are some of the tools and languages I work with:
