@@ -24,7 +24,6 @@ Here are some of the tools and languages I work with:
 
 
 
-  
 <!-- Tools:
 
 
