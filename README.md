@@ -6,6 +6,10 @@ I am a **Cybersecurity Professional**
 A little about me:  
 - I am currently studying Computer Science 
 Cybersecurity at Liberty University.
+- I have experience in Application Programming, 
+Web Development, Information Systems, 
+and Cybersecurity. 
+
 
 
 Languages I know:
@@ -14,6 +18,11 @@ Languages I know:
 - SQL
 - HTML/CSS
 
+
+
+Follow me on:
+- LinkedIn
+- Medium
 <!-- Tools:
 
 
