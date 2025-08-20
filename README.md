@@ -1,7 +1,23 @@
 # Hello!
+Welcome to my GitHub profile \n
+My name is Taylor and I am a \n
+Cybersecurity Professional 
 
-Welcome to my GitHub profile.
+- I am currently studying Computer Science 
+Cybersecurity at Liberty University.
 
+
+Languages I know:
+• Python
+• C++
+• SQL
+• HTML/CSS
+
+<!-- Tools:
+
+-->
+
+![tryhackme stats](https://raw.githubusercontent.com/taywave/taywave/master/assets/thm_propic.png)
 <!--
 **taywave/taywave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tryhackme stats](https://raw.githubusercontent.com/taywave/taywave/master/assets/thm_propic.png)
+
 
