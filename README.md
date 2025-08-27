@@ -1,5 +1,5 @@
 ## 💻 About Me
-I’m a passionate **Cybersecurity Professional** and a **Computer Science & Cybersecurity student at Liberty University**.  
+I’m a passionate **Cybersecurity Professional** and a **Computer Science Cybersecurity** major at Liberty University.  
 I enjoy exploring programming, web development, and information systems, with a focus on building secure and efficient solutions.
 
 - Experienced in Application Programming, Web Development, Information Systems, and Cybersecurity
@@ -20,10 +20,13 @@ Here are some of the tools and languages I work with:
 - All things cybersecurity
 
 ## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/taylor-wavra-7b5a7724b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-
+<a href="https://www.linkedin.com/in/taylor-wavra-7b5a7724b/">LinkedIn</a>
+ | 
+<a href="https://linktr.ee/taywave03">My Linktree</a>
+ | 
+ <a href="https://tryhackme.com/r/p/taywave">TryHackMe Profile</a>
+| 
+<a href="https://medium.com/@taylorwavra">Medium Blog</a>
 <!-- Tools:
 
 
