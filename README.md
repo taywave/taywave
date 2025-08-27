@@ -1,31 +1,25 @@
 ## 💻 About Me
 I’m a passionate **Cybersecurity Professional** and a **Computer Science Cybersecurity** major at Liberty University.  
-I enjoy exploring programming, web development, and information systems, with a focus on building secure and efficient solutions.
-
+- I enjoy exploring programming, web development, and information systems, with a focus on building secure and efficient solutions.
 - Experienced in Application Programming, Web Development, Information Systems, and Cybersecurity
 - Always learning and experimenting with new technologies
 - Motivated to contribute to open-source projects and collaborative work
-
 ## 🛠️ Skills & Languages
 Here are some of the tools and languages I work with:
 
 - **Programming Languages:** Python, C++, SQL  
 - **Web Development:** HTML, CSS  
-- **Cybersecurity Tools:** Wireshark, Nmap, Bash, Linux (Ubuntu/Kali)  
-
+- **Cybersecurity Tools:** Wireshark, Nmap, Bash, Linux (Ubuntu/Kali)
 ## 🌱 Currently Learning
 - Linux & System Security
 - Computer Architecture and Organization  
 - Network Security & Analysis
 - All things cybersecurity
-
 ## 📫 Connect with Me
 <a href="https://www.linkedin.com/in/taylor-wavra-7b5a7724b/">LinkedIn</a>
  | 
 <a href="https://linktr.ee/taywave03">My Linktree</a>
  | 
- <a href="https://tryhackme.com/r/p/taywave">TryHackMe Profile</a>
-| 
 <a href="https://medium.com/@taylorwavra">Medium Blog</a>
 <!-- Tools:
 
