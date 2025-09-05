@@ -30,7 +30,7 @@ Certifications:
 
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/taywave.png" alt="Your Image Badge" />
+![tryhackme stats](https://raw.githubusercontent.com/taywave/taywave/master/assets/thm_propic.png)
 <!--
 **taywave/taywave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
