@@ -1,3 +1,5 @@
+![Taylor Wavra](assets/banner_TaylorWavra.png)
+
 ## 💻 About Me
 I’m a passionate **Cybersecurity Professional** and a **Computer Science Cybersecurity** major at Liberty University.  
 - I enjoy exploring programming, web development, and information systems, with a focus on building secure and efficient solutions.
