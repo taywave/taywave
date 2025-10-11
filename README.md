@@ -1,8 +1,8 @@
 ![Taylor Wavra](assets/banner_TaylorWavra.png)
 
 ## 🌐 Connect with Me
-| [Website](https://taylorwavra-eak71po.gamma.site/) | [LinkedIn](https://www.linkedin.com/in/taylor-wavra/) | [Linktree](https://linktr.ee/taywave03) | [Blog](https://medium.com/@taylorwavra) |
-|---|---|---|---|
+| [Website](https://taylorwavra-eak71po.gamma.site/) | [LinkedIn](https://www.linkedin.com/in/taylor-wavra/) | [Linktree](https://linktr.ee/taywave03) | [Blog](https://medium.com/@taylorwavra) | [TryHackMe](https://tryhackme.com/p/taywave) |
+|---|---|---|---|---|
 
 ## 💻 About Me
 I’m a passionate **Cybersecurity Professional** and a **Computer Science Cybersecurity** major at Liberty University.  
