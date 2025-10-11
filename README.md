@@ -1,12 +1,16 @@
 ![Taylor Wavra](assets/banner_TaylorWavra.png)
 
+## 🌐 Connect with Me
+| [Website](https://taylorwavra-eak71po.gamma.site/) | [LinkedIn](https://www.linkedin.com/in/taylor-wavra/) | [Linktree](https://linktr.ee/taywave03) | [Blog](https://medium.com/@taylorwavra) |
+|---|---|---|---|
+
 ## 💻 About Me
 I’m a passionate **Cybersecurity Professional** and a **Computer Science Cybersecurity** major at Liberty University.  
 - I enjoy exploring programming, web development, and information systems, with a focus on building secure and efficient solutions.
 - Experienced in Application Programming, Web Development, Information Systems, and Cybersecurity
 - Always learning and experimenting with new technologies
 - Motivated to contribute to open-source projects and collaborative work
-## 🛠️ Skills & Languages
+## 🛠️ Skills, Languages, & Tools
 Here are some of the tools and languages I work with:
 
 - **Programming Languages:** Python, C++, SQL  
@@ -17,18 +21,14 @@ Here are some of the tools and languages I work with:
 - Computer Architecture and Organization  
 - Network Security & Analysis
 - All things cybersecurity
-## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/taylor-wavra-7b5a7724b/">LinkedIn</a>
- | 
-<a href="https://linktr.ee/taywave03">My Linktree</a>
- | 
-<a href="https://medium.com/@taylorwavra">Medium Blog</a>
-<!-- Tools:
 
+## 💡 Interested in Working On:
+- Automation/Scripting (with Python, Bash, or C++)
+- Blue Team and IT Labs
+- Educational Articles and Walkthroughs
 
-
+<!-- 
 Certifications:
-
 
 -->
 
