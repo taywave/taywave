@@ -17,10 +17,10 @@ Here are some of the tools and languages I work with:
 - **Web Development:** HTML, CSS  
 - **Cybersecurity Tools:** Wireshark, Nmap, Bash, Linux (Ubuntu/Kali)
 ## 🌱 Currently Learning
-- Linux & System Security
-- Computer Architecture and Organization  
+- Linux & Windows Security
+- Network Architecture & Protocols  
 - Network Security & Analysis
-- All things cybersecurity
+- Blue Team Tools and Techniques
 
 ## 💡 Interested in Working On:
 - Automation/Scripting (with Python, Bash, or C++)
