@@ -13,18 +13,19 @@ I’m a passionate **Cybersecurity Professional** and a **Computer Science Cyber
 ## 🛠️ Skills, Languages, & Tools
 Here are some of the tools and languages I work with:
 
-- **Programming Languages:** Python, C++, SQL  
-- **Web Development:** HTML, CSS  
-- **Cybersecurity Tools:** Wireshark, Nmap, Bash, Linux (Ubuntu/Kali)
+- **Programming Languages:** Python, C++, C, SQL  
+- **Web Development:** HTML, CSS, jQuery, Bootstrap, Flask  
+- **Cybersecurity Tools:** Wireshark, Nmap, Bash, Linux (Ubuntu, Kali, Linux Mint, REMnux, etc.)
 ## 🌱 Currently Learning
 - Linux & Windows Security
 - Network Architecture & Protocols  
 - Network Security & Analysis
 - Blue Team Tools and Techniques
+- Discrete Mathematics
 
 ## 💡 Interested in Working On:
 - Automation/Scripting (with Python, Bash, or C++)
-- Blue Team and IT Labs
+- Blue Team and IT Projects
 - Educational Articles and Walkthroughs
 
 <!-- 
