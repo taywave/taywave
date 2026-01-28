@@ -13,7 +13,7 @@ I’m a passionate **Cybersecurity Professional** and a **Computer Science Cyber
 ## 🛠️ Skills, Languages, & Tools
 Here are some of the tools and languages I work with:
 
-- **Programming Languages:** Python, C++, C, SQL  
+- **Programming Languages:** Python, C/C++, Java  
 - **Web Development:** HTML, CSS, jQuery, Bootstrap, Flask  
 - **Cybersecurity Tools:** Wireshark, Nmap, Bash, Linux (Ubuntu, Kali, Linux Mint, REMnux, etc.)
 ## 🌱 Currently Learning
